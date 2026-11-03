@@ -84,6 +84,6 @@ I'm a 2026 Computer Science Engineering graduate passionate about data analytics
 
 ## 👀 Profile Visitors
 
-![Visitors](https://komarev.com/ghpvc/?username=AKANKSHASUBHASHPAWAR&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AKANKSHASUBHASHPAWAR&label=Profile%20Views&color=blue&style=flat-square)
 
 **Thank you for visiting my profile!** 😊
