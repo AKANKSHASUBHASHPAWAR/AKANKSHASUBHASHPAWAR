@@ -1,72 +1,12 @@
-# Hi, I'm Akanksha Pawar! 👋
-
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI | EDA
-
-I'm a 2026 Computer Science and Enginieering graduate passionate about Data Analytics, Business Intelligence, and building practical technology solutions.
-
-I enjoy analyzing data, creating interactive dashboards, and transforming raw data into meaningful insights.
-
 ## 🛠️ Technical Skills
 
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy, EDA
-- **Database:** SQL, MySQL
-- **Visualization:** Power BI, Excel, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, CNN
-- **AI Development:** Streamlit, Gemini API
-- **Tools:** Jupyter Notebook, MySQL Workbench, Git, GitHub
-
-## 📊 Power BI Dashboard Projects
-
-| Project | GitHub Repository |
-|---|---|
-| Job Market Analysis | [View Project](https://github.com/AKANKSHASUBHASHPAWAR/job-market-analysis) |
-| HR Analysis | [View Project](https://github.com/AKANKSHASUBHASHPAWAR/hr-analysis) |
-| Banking Analysis | [View Project](https://github.com/AKANKSHASUBHASHPAWAR/banking-analysis) |
-| Chocolate Sales Analysis | [View Project](https://github.com/AKANKSHASUBHASHPAWAR/chocolate-sales-dashboard) |
-| Healthcare Analysis | [View Project](https://github.com/AKANKSHASUBHASHPAWAR/healthcare-analysis-dashboard) |
-
-## 🚀 Live Projects
-
-### 1. Car Engine Health Monitoring System
-Machine learning-based application for predicting engine condition.
-
-**Technologies:** Python, Flask, Random Forest, Scikit-learn
-
-[Live Demo](https://car-engine-health-1.onrender.com/) | [Source Code](https://github.com/AKANKSHASUBHASHPAWAR/car-engine-health)
-
-### 2. Product Image Classifier
-CNN-based application for classifying product images into different categories.
-
-**Technologies:** Python, TensorFlow, CNN, Streamlit
-
-[Live Demo](https://image-classifier-c5kulc7l5xj8etf6easyss.streamlit.app/) | [Source Code](https://github.com/AKANKSHASUBHASHPAWAR/product-image-classifier)
-
-### 3. AI Resume Analyzer – CareerAI Pro
-AI-powered application for resume analysis, ATS evaluation, cover letter generation, and interview preparation.
-
-**Technologies:** Python, Streamlit, Gemini API, Pandas, Scikit-learn
-
-[Live Demo](https://ai-resume-interview-coach-1013.streamlit.app/)
-
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science and Engineering**
-
-Graduation Year: 2026 | CGPA: 8.00
-
-## 🎯 Career Objective
-
-Seeking an entry-level Data Analyst opportunity where I can apply my analytical and technical skills, learn from experienced professionals, and contribute to data-driven business decisions.
-
-## 📫 Connect With Me
-
-- **GitHub:** [AKANKSHASUBHASHPAWAR](https://github.com/AKANKSHASUBHASHPAWAR)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/akanksha-pawar-988621261)
-- **Email:** akankshaapawar10@gmail.com
-
----
-
-⭐ Thank you for visiting my profile!
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
