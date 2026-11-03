@@ -1,4 +1,18 @@
 ## 🛠️ Technical Skills
+# Hi, I'm Akanksha Pawar! 👋
+
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
+
+I'm a Computer Science graduate (2026) passionate about transforming raw data into meaningful insights.
+
+- 🎓 B.E. in Computer Science Engineering
+- 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
+- 🛠️ Working with Python, SQL, Excel, and Power BI
+- 📈 Built 5 Power BI dashboards and practical Python-based projects
+- 🌱 Continuously learning data analysis, ETL, and visualization
+- 🎯 Looking for entry-level Data Analyst opportunities across India
+
+**Let's connect and explore opportunities to work with data!**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
